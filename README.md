@@ -21,4 +21,4 @@ Then random mutation is done . If the best one is lost then that entire iteratio
 If for last 10 iteration , there is no improvement in score then program is terminated
 
 # Sample Output
-
+![Screenshot](PunG.png)
