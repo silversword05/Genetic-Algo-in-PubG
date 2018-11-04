@@ -15,7 +15,7 @@ while(Wdps>1 or Wdps<0):
 
 Wfr=1-Wdps
 
-print("The Fire rate weight is "+str(Wfr*100)+ " and the damage per second is "+str(Wdps*100))
+print("The Fire rate weight is "+str(Wfr*100)+ " and the damage per shot is "+str(Wdps*100))
 
 arr=np.random.randint(len(DPS), size=(25, 2))
 
